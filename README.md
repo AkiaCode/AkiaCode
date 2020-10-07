@@ -11,8 +11,7 @@
 <br />
 
 ## I am...
-* 어쩌구
-* 저쩌구
+* Spaghetti sauce maker
 
 <br />
 
