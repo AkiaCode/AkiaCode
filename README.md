@@ -3,9 +3,6 @@
   <h1>
     Cutie Aki's World!
   </h1>
-  <a href="">링크</a> •
-  <a href="">링크링크</a> •
-  <a href="">귀여운 링크</a>
 </div>
 
 <br />
