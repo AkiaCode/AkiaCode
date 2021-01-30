@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/689314197233860629/766199302049497169/unknown.png" width="300"/>
   <h1>
-    Cutie Aki's World!
+    hELLO, eVERYONE
   </h1>
 </div>
 
