@@ -1,16 +1,6 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/689314197233860629/766199302049497169/unknown.png" width="300"/>
-  <h1>
-    hELLO, eVERYONE
-  </h1>
 </div>
-
-<br />
-
-## I am...
-* Spaghetti sauce maker
-* Coder
-<br />
 
 ## Contant
 [![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:catry.me@gmail.com)](mailto:catry.me@gmail.com)
