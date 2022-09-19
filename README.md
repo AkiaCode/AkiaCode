@@ -7,7 +7,7 @@
   </h3>
 </div> -->
 
-## Contant
+## Content
 [![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:akiacode@kawaiii.moe)](mailto:akiacode@kawaiii.moe)
 
 ### Buy Me a Coffe
