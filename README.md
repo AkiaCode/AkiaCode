@@ -8,7 +8,7 @@
 </div> -->
 
 ## Content
-[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:catry.me@gmail.com)](mailto:catry.me@gmail.com)\
+[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:catry.me@gmail.com)](mailto:catry.me@gmail.com)
 
 ### Buy Me a Coffe
 <a href='https://ko-fi.com/catry' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
