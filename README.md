@@ -12,5 +12,3 @@
 
 ### Buy Me a Coffee
 <a href='https://ko-fi.com/catry' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/pmh-only/pmh-only/assets/39158228/863eaf19-ca5c-4e85-9ff3-90bf9e56824e');]{x0000}$}
